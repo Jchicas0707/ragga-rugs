@@ -1,0 +1,33 @@
+
+a {
+color: red;
+font-style: italic;
+
+}
+
+h1 {
+  color: blue;
+  font-size:36px;
+}
+
+p {
+  font-style: oblique;
+  color: yellow;
+  font-size:36px;
+}
+h2 {
+  color: green;
+}
+
+h3 {
+
+
+}
+
+h6 {
+  color: #A569BD;
+}
+
+h7 {
+  color: #85C1E9;
+}
